@@ -9,7 +9,7 @@ Cooking: {
     Container: {Stainless Steel Pot, Bowl, Cookerup},
     Tool: {Spoon, Knife},
     Clean: {Dishwashing Liquid, Sponge, Steel Wool},
-    Material: {H2O, NaCl, C6H12O6, CH3COOH, Protein, Lipids, Monosodium glutamate},
+    Material: {H2O, NaCl, C6H12O6, CH3COOH, Protein, Lipids, Monosodium glutamate, Vitamins},
 },
 Medical: {
     Hygiene: {Soap, Towel, Toothbrush, Toothpaste},
@@ -18,4 +18,13 @@ Medical: {
     Anti-inflammatory drugs: {Erythromycin, Amoxicillin, Penicillin, Cephalosporin, Quinols},
     Operation: {Face mask, Nitrile gloves, Tweezers, Scalpel, Syringe, Thermometer},
     Hemostasis: {Bandage, Cotton wool},
-}
+},
+Textile: {
+    Overnight: {Bed, Mattress, Quilt, Pillow, Light,},
+    Clothes: {Basic clothing: {Underwear, Shirt, Trousers, Socks, Shoes}, Thermal clothing, Raincoat, Umbrella, Hat, Gloves},
+    Clean: {Washing powder, Bucket, Rubber gloves, Coat hanger, Mop,}, 
+},
+Work:{
+    Stationery: {Paper, Pen, Scissors, Tape,}
+    Electronic equipment: {Mobile phone, Computer, Earphones, Watch, Battery}
+},
