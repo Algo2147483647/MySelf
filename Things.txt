@@ -6,10 +6,10 @@ Infrastructure: {
 }, 
 Cooking: {
     Temperature: {Induction Cooker, Micro-wave Oven, Refrigerator, Thermal Insulation Box},
-    Container: {Stainless Steel Pot, Bowl, Cookerup},
+    Container: {Stainless Steel Pot, Bowl, Cup},
     Tool: {Spoon, Knife},
     Clean: {Dishwashing Liquid, Sponge, Steel Wool},
-    Material: {H2O, NaCl, C6H12O6, CH3COOH, Protein, Lipids, Monosodium glutamate, Vitamins},
+    Material: {H2O, NaCl, C6H12O6, CH3COOH, Protein, Lipids, Monosodium Glutamate, Vitamins},
 },
 Medical: {
     Hygiene: {Soap, Towel, Toothbrush, Toothpaste},
@@ -21,7 +21,7 @@ Medical: {
 },
 Textile: {
     Overnight: {Bed, Mattress, Quilt, Pillow, Light,},
-    Clothes: {Basic clothing: {Underwear, Shirt, Trousers, Socks, Shoes}, Thermal clothing, Raincoat, Umbrella, Hat, Gloves},
+    Clothes: {Basic clothing: {Underwear, Shirt, Trousers, Socks, Shoes}, Thermal clothing, Raincoat, Umbrella, Hat, Gloves, Bag},
     Clean: {Washing powder, Bucket, Rubber gloves, Coat hanger, Mop,}, 
 },
 Work:{

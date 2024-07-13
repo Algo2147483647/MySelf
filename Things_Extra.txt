@@ -1,0 +1,13 @@
+Hobby: {
+    Sport: {
+        Badminton: {Badminton Racket, Shuttlecock}, 
+        Swimming: {Swimming Goggles, Swimming Caps, Swimming Trunks}
+    }, 
+    Photography: {Camera: {CMOS, Lenses}, Tripod, Filter, Reflector, Camera-blower},
+}
+Food: {
+    Staple Food: {Flour, Yeast, Rice, Potato, Sweet Potato, Corn}, 
+    Meat: {Egg, Chicken, Beef, Fish, Shrimp, },
+    Condiment: {Soy Sauce, Garlic, Ginger, Scallion, Pepper, Coriander, Pepper, Honey, Salad Dressing}, 
+    Drink: {Milk, Tea, Coffee}, 
+}
