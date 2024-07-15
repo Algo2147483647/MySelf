@@ -26,5 +26,6 @@ Textile: {
 },
 Work:{
     Stationery: {Paper, Pen, Scissors, Tape,}
-    Electronic equipment: {Mobile phone, Computer, Earphones, Watch, Battery}
+    Measure: {Ruler, Scale, Clock, Thermometer, }
+    Electronic equipment: {Mobile phone, Computer, Earphones, Battery}
 },
